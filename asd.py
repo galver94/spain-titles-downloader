@@ -1,0 +1,2 @@
+cols = f"university_code,center_code,title_code,title_name,academic_level,status_pub,status,meces_level,title_branch,professionalizer,credits_basic,credits_mandatory,credits_optional,credits_practices,credits_thesis,total_credits"        
+print(cols.replace(",", "$"))
